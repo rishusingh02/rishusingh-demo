@@ -1,3 +1,3 @@
 # rishusingh-demo
 this is my first GIT repo.
-owner = Rishu Singh
+owner = Rishu Kumar Singh
